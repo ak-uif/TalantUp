@@ -1,4 +1,4 @@
-# TalantUp / Birkönüllü
+# TalantUp
 
 İş, könüllülük imkanları və fəaliyyət əsaslı namizəd kəşfi üçün ikidilli hackathon prototipi.
 
